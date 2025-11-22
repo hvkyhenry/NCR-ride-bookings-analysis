@@ -225,9 +225,9 @@ Potential extensions to this analysis:
 
 ## Author
 
-**Your Name**
+**Henry Maingi**
 Data Analyst | Python Enthusiast
-[LinkedIn](your-linkedin) | [Portfolio](your-portfolio) | [Email](your-email)
+[LinkedIn][(https://www.linkedin.com/in/henry-maingi-670a262ba/) | [Email](henrymaingi05@gmail.com)
 
 ## Acknowledgments
 
@@ -236,6 +236,6 @@ Data Analyst | Python Enthusiast
 
 ---
 
-**Last Updated:** November 2024
+**Last Updated:** November 2025
 
 *This project is part of my data analytics portfolio showcasing skills in Python, Pandas, data visualization, and business intelligence.*
